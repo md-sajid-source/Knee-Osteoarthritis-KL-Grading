@@ -1,0 +1,25 @@
+
+# Dataset
+OSAIL_KL_Dataset/
+archive/
+
+# Generated CSV files and results
+data/CSVs/
+sessions/
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+.env
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
